@@ -15,7 +15,7 @@
 - [PDF con demostración completa](NOMBRE-DE-TU-PDF.pdf)
 
 ## Autor:
-Jhaider Torres Buelvas Avid 
+Jhaider Avid Torres Buelvas
 
 ## Licencia:
 MIT License
