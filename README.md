@@ -17,7 +17,7 @@
 Con solo 4 términos, el error de truncamiento es menor que el error total de la aproximación.
 
 ## Descargas
-- [📄 Ver paper completo] (Serie_de_jhaider.pdf) 
+- [📄 Ver paper completo](Serie_de_jhaider.pdf) 
 
 ## Autor
 **Jhaider Avid Torres Buelvas** - Descubridor de la serie
