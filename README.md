@@ -1,21 +1,26 @@
-# Mi Serie para Aproximar π/2
+# Serie de Jhaider: Aproximación Geométrica para π/2
 
-## La fórmula que descubrí:
+## Fórmula Descubierta
 
 \[
 \frac{\pi}{2} \approx 6\sum_{n=1}^{\infty} (-1)^{n+1}\left(\frac{2}{7}\right)^n\left(\frac{8}{25}\right)^{\,n-1}
 \]
 
-## Resultado:
+## Resultados Principales
 - **Valor aproximado**: 1.57068
-- **Error**: 0.00737%
-- **Forma exacta**: \(\frac{300}{191}\)
+- **Error relativo**: 0.00737%
+- **Forma racional exacta**: \(\frac{300}{191}\)
+- **Tipo de serie**: Geométrica alternante
+- **Razón de convergencia**: \(r = -\frac{16}{175} \approx -0.09143\)
 
-## Descarga:
-- [PDF con demostración completa](NOMBRE-DE-TU-PDF.pdf)
+## Convergencia Rápida
+Con solo 4 términos, el error de truncamiento es menor que el error total de la aproximación.
 
-## Autor:
-Jhaider Avid Torres Buelvas
+## Descargas
+- [📄 Ver paper completo](Serie%20de%20Jhaider.pdf)
 
-## Licencia:
-MIT License
+## Autor
+**Jhaider Avid Torres Vuelvas** - Descubridor de la serie
+
+## Licencia
+MIT License - Libre uso académico con atribución
