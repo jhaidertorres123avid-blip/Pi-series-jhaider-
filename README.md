@@ -20,7 +20,7 @@ Con solo 4 términos, el error de truncamiento es menor que el error total de la
 - [📄 Ver paper completo](Serie%20de%20Jhaider.pdf)
 
 ## Autor
-**Jhaider Avid Torres Vuelvas** - Descubridor de la serie
+**Jhaider Avid Torres Buelvas** - Descubridor de la serie
 
 ## Licencia
 MIT License - Libre uso académico con atribución
